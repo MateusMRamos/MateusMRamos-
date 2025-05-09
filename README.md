@@ -1,9 +1,10 @@
-## Olá! Me chamo Mateus.👋
+## Mateus Machado 👨🏻‍💻
 
-- Estou cursando o 2º periodo de Ciências da Computação📘
-- Estou estudando as liguagens: Python🐍 || C🔤
-- Tenho mais familiaridade Back-and💻
-- E-mail para contato: mateus28machado03@gmail.com📩
+- **`Estou cursando o 2º periodo de Ciências da Computação📘`**
+- **`Estou estudando as liguagens: Python🐍 || C🔤`**
+- **`Tenho mais familiaridade Back-and💻`**
+- **`E-mail para contato: mateus28machado03@gmail.com📩`**
+- **Redes sociais 📷: [instagram](https://www.instagram.com/maxadox_/)**
 
 <div style="display: inline_block"><br>
   
@@ -15,16 +16,4 @@
  
 <div> 
   
-  <details>
-  <summary>
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </summary>
-
-  <br/>
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/MateusMRamos/MateusMRamos/main/maxadox__qr.png" width="250" alt="QR Code Instagram">
-  </p>
-</details>
-
 </div>
