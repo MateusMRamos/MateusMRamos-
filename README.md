@@ -15,6 +15,5 @@
   ##
  
 <div> 
-https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white
-
+https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail
 </div>
