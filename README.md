@@ -15,5 +15,10 @@
   ##
  
 <div> 
-https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail
+  
+[![Email](https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail)](mailto:mateus28machado03@gmail.com)
+[![Instagram](https://custom-icon-badges.demolab.com/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/maxadox_/)
+[![Twitter](https://custom-icon-badges.demolab.com/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/Mat_ramos_)
+
+
 </div>
